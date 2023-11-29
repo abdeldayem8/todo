@@ -1,2 +1,3 @@
 # todo
-To Do App with react and typescript
+Simple To do app with react and typescript 
+live Demo: https://abdeldayem8.github.io/todo/
